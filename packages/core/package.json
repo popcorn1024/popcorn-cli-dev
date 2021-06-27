@@ -17,6 +17,6 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@popcorn-cli-dev/utils":"^1.0.0"
+    "@popcorn-cli-dev/utils": "^1.0.0"
   }
 }
