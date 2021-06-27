@@ -1,0 +1,19 @@
+{
+  "name": "@popcorn-cli-dev/utils",
+  "version": "1.0.0",
+  "description": "popcorn-cli-dev utils",
+  "author": "popcorn1024 <448421908@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/utils.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
