@@ -1,7 +1,7 @@
 {
-  "name": "pop-cli-dev",
+  "name": "popcorn-cli-dev",
   "version": "1.0.0",
-  "description": "pop-cli dev",
+  "description": "popcorn-cli dev",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

@@ -18,5 +18,6 @@
   },
   "dependencies": {
     "@popcorn-cli-dev/utils": "^1.0.0"
-  }
+  },
+  "gitHead": "fea3323ed59668c328ab9b59687bf1aad8f37be6"
 }
