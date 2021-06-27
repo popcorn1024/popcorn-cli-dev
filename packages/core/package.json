@@ -19,5 +19,8 @@
   "dependencies": {
     "@popcorn-cli-dev/utils": "^1.0.4"
   },
-  "gitHead": "f32ce40a894e0138d212f4029b4e389d002ec590"
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "e00ae8a1efff1c342552a4553b0e3059051353c4"
 }
