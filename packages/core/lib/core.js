@@ -4,5 +4,5 @@ module.exports = core;
 
 function core() {
     // TODO
-	console.log('test1')
+	console.log('core test')
 }
