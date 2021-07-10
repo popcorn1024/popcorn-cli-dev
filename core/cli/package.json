@@ -24,10 +24,16 @@
   },
   "dependencies": {
     "@popcorn-cli-dev/log": "file:../../utils/log",
+    "@popcorn-cli-dev/get-npm-info": "file:../../utils/get-npm-info",
     "colors": "^1.4.0",
+    "dotenv": "^10.0.0",
     "import-local": "^3.0.2",
+    "minimist": "^1.2.5",
     "npmlog": "^4.1.2",
-    "semver": "^7.3.5"
+    "path-exists": "^4.0.0",
+    "root-check": "1.0.0",
+    "semver": "^7.3.5",
+    "user-home": "^3.0.0"
   },
   "gitHead": "e00ae8a1efff1c342552a4553b0e3059051353c4"
 }
